@@ -1,8 +1,5 @@
 package FirstExcercises;
 
-import javafx.concurrent.Task;
-
-import java.sql.SQLOutput;
 
 //*Write a Java program to check whether
 // a given string ends with the contents of another string.*
